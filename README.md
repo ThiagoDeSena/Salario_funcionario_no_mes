@@ -3,8 +3,6 @@ Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depo
 
 ![image](https://github.com/ThiagoDeSena/Salario_funcionario_no_mes/assets/110785400/e861b2c2-b4c4-4d5a-8148-e96e68f50388)
 
-26/06/2018
-10
 Enter department's name: Design
 Enter worker data:
 Name: Alex
