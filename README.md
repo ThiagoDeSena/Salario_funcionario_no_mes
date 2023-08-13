@@ -1,5 +1,5 @@
 # Salario_funcionario_no_mes
-Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar do usuário um mês e mostrar qual foi o salário do funcionário nesse mês, , conforme exemplo
+Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar do usuário um mês e mostrar qual foi o salário do funcionário nesse mês, conforme exemplo
 
 ![image](https://github.com/ThiagoDeSena/Salario_funcionario_no_mes/assets/110785400/e861b2c2-b4c4-4d5a-8148-e96e68f50388)
 
